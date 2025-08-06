@@ -17,8 +17,8 @@ Key Findings
 - Slightly unnatural grammar and formatting.
 
 Files Included
-- phishing_email_sample.jpg – Screenshot of the phishing email
-- Phishing_Email_Task2_Report.docx – Full detailed analysis report
+- phishing_email.jpg – Screenshot of the phishing email
+- Elevate_labs_task_report_2.pdf – Full detailed analysis report
 - README.md – This summary file
 
 Conclusion
